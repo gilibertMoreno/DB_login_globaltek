@@ -40,7 +40,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`user_id`, `user_fullname`, `user_email`, `user_name`, `user_password`) VALUES
-(13, 'diego', 'gilibertadonismb@ufps.edu.co', 'diego', '$2a$10$DjRr.3PTRFiZDXz61LAQ2ujxSfgjDIU3f4SxOgqiEXtAzo34DdIZ.');
+(13, 'admin', 'gilibertadonismb@ufps.edu.co', 'admin', '$2a$10$DjRr.3PTRFiZDXz61LAQ2ujxSfgjDIU3f4SxOgqiEXtAzo34DdIZ.');
 
 --
 -- Índices para tablas volcadas
